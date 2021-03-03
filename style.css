@@ -1,0 +1,101 @@
+div.navig{
+    background-color: rgb(31, 29, 29);
+     
+    text-align: center;
+    padding: 15px;
+    margin: -10px;
+    opacity: 0.9;
+     
+}
+      
+
+.one{
+margin: 50px;
+color: rgb(223, 217, 217);
+text-decoration: none;
+}
+
+
+ div.two{
+     background-color: rgb(6, 120, 196);
+     text-align: center;
+     padding: 12px;
+     margin-top: 10px;
+     margin-left: -10px;
+     margin-right: -10px;
+}
+      
+  
+ .three{
+     color: white;
+     text-decoration: none;
+ }    
+    
+ 
+ .three:hover{
+     text-decoration: underline;
+ }     
+ 
+
+ .one:hover{
+     color: white;
+ }
+
+
+ div.light{
+     background-color: whitesmoke;
+     text-align: center;
+     padding: 1px;
+     margin-left: -10px;
+     margin-right: -10px;
+     color: gray;
+ }
+
+
+ .shop{
+     text-decoration: none;
+     color: rgb(19, 136, 214);;
+ }
+
+ .shop:hover{
+     text-decoration: underline;
+ }
+
+ div.last{
+     background-color: whitesmoke;
+     padding: 10px;
+      
+ }
+
+  div.inner{
+    background-color: whitesmoke;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 20%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 70%;
+    text-align: justify;
+     
+  }   
+
+  
+  ul.inline{
+      list-style-type: none;
+      display:   inline-block;
+  }
+
+  li.color{
+      color: black;
+  }
+
+  .hov{
+      text-decoration: none;
+      color: grey;
+  }
+
+  .hov:hover{
+      text-decoration: underline black;
+      
+  }
